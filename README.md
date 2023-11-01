@@ -1,7 +1,7 @@
 # FragmentLifecycleExample
 This repository focuses on understanding the Fragment Lifecycle in Android
 
-# Activity Lifecycle Diagram
+# Fragment Lifecycle Diagram
 ![Fragment_Lifecycle.jpg](https://developer.android.com/static/images/guide/fragments/fragment-view-lifecycle.png)
 <br><br>Image Credits: <a href="https://developer.android.com">_Google Android Developer Documentation_</a>
 
